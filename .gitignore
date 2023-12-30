@@ -1,0 +1,16 @@
+# Vendor
+/vendor
+/psalm
+# Composer
+composer.phar
+composer.lock
+# IDE
+/.fleet
+/.idea
+/.vscode
+/nbproject
+.DS_STORE
+# Config
+.php-cs-fixer.cache
+/logs
+/tmp
